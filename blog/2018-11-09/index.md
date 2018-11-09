@@ -30,6 +30,7 @@ Amongst the work done this week, I had the most fun creating the Account tab for
 As a team we decided to implement a segmented control instead of giving each Billing / Account view their own tab at the bottom of the application. This provides a cleaner interface for users.
 
 ![Account View](https://i.imgur.com/Hmabxhz.png)
+
 ![Billing View](https://i.imgur.com/jIJdNrQ.png)
 
 
@@ -42,5 +43,7 @@ Occassionally a team might disagree on ideas and it's good to get objective feed
 
 
 Web frontend: https://upbeat-shockley-073b78.netlify.com/
+
 Web backend: https://likjshfiljsundiclues.herokuapp.com/
+
 iOS: https://github.com/Lambda-School-Labs/Labs8-OfflineReader/tree/master/ios
