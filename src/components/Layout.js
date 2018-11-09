@@ -83,8 +83,8 @@ const Layout = ({ children }) => (
           <GlobalStyle />
           {children}
           <Footer>
-            &copy; 2018 by John Doe. All rights reserved. <br />
-            <a href="https://github.com/LekoArts/gatsby-starter-minimal-blog">GitHub Repository</a> <br />
+            &copy; 2018 by Conner Alegre. All rights reserved. <br />
+            <a href="https://github.com/Nulcon/blog">GitHub Repository</a> <br />
             <span>Last build: {data.site.buildTime}</span>
           </Footer>
         </React.Fragment>
