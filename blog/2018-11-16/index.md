@@ -1,7 +1,7 @@
 ---
-date: 'TODAYS DATE'
-title: 'JOURNAL TITLE'
-category: 'Journal'
+date: '2018-11-16'
+title: 'Sprint 2018-11-16'
+category: 'General'
 ---
 
 ## Individual Accomplishments
@@ -24,13 +24,13 @@ category: 'Journal'
 - Ticket 1
   - https://trello.com/c/1gn2V1Eh
   - https://github.com/Lambda-School-Labs/Labs8-OfflineReader/pull/32
-- Pull 2 description
+- Ticket 2
   - https://trello.com/c/u5En8COJ
   - https://github.com/Lambda-School-Labs/Labs8-OfflineReader/pull/40
-- Pull 3 description
+- Ticket 3
   - https://trello.com/c/F59mprim
   - https://github.com/Lambda-School-Labs/Labs8-OfflineReader/pull/42
-- Pull 4 description
+- Ticket 4
   - https://trello.com/c/YyNZnGLH
   - https://github.com/Lambda-School-Labs/Labs8-OfflineReader/pull/53
 
@@ -39,6 +39,7 @@ category: 'Journal'
 This week we created some example JSON for our application to consume and use. This is in preparation for the upcoming JSON that the Django server will generate. This JSON is consumed into both the collection view and the detail view. There were some changes to the appearance of both the main "Saved" view and the secondary "detail" view for articles.
 
 <img src="https://i.imgur.com/sabR9Rl.png" alt="drawing" width="450"/>
+
 <img src="https://i.imgur.com/bgcRe6e.png" alt="drawing" width="450"/>
 
 ## Weekly Summary
@@ -48,5 +49,7 @@ I was reluctant to jump into the Django app since my main focus is iOS but I did
 
 Web frontend with Auth: ![Auth](https://i.imgur.com/gpUGIMy.png)
 https://anywhere-reader-test.netlify.com
+
 Web backend: https://anywhere-reader-test.herokuapp.com
+
 iOS: https://github.com/Lambda-School-Labs/Labs8-OfflineReader/tree/master/ios
