@@ -53,3 +53,6 @@ https://anywhere-reader-test.netlify.com
 Web backend: https://anywhere-reader-test.herokuapp.com
 
 iOS: https://github.com/Lambda-School-Labs/Labs8-OfflineReader/tree/master/ios
+
+
+Linked List Whiteboard: https://www.youtube.com/watch?v=iF3vkXjD944
