@@ -42,8 +42,8 @@ Being on a team is a big advantage for work completed. Being able to delegate pa
 Occassionally a team might disagree on ideas and it's good to get objective feedback from team members to ensure that the idea is the correct step forward. This will help provide users with a more cohesive project all around.
 
 
-Web frontend: https://upbeat-shockley-073b78.netlify.com/
+Web frontend: https://anywhere-reader-test.netlify.com
 
-Web backend: https://likjshfiljsundiclues.herokuapp.com/
+Web backend: https://anywhere-reader-test.herokuapp.com
 
 iOS: https://github.com/Lambda-School-Labs/Labs8-OfflineReader/tree/master/ios
