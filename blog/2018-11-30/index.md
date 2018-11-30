@@ -40,6 +40,7 @@ category: 'General'
 - Ticket 6
   - https://trello.com/c/dtT6sgci
   - https://github.com/Lambda-School-Labs/Labs8-OfflineReader/pull/91
+
 ## Detailed Thoughts
 
 We implemented Google OAuth, Stripe payments, and made improvements to the performance of the application. Google OAuth is what we'll be using moving forward as the main authentication for our users. Stripe works with the Django backend and successfully POSTs a charge to the Stripe payment account. There were also improvements made to the way images were being dealt with - the images are now cached and not reloaded if downloaded once. This allowed the UI to work more smoothly if there are a lot of images on screen.
