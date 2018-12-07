@@ -8,7 +8,7 @@ category: 'General'
 
 [@Nulcon](https://github.com/Nulcon)
 
-![Contribution Graph](https://i.imgur.com/bbaVVrd.png)
+![Contribution Graph](https://i.imgur.com/IPMOBj2.png)
 
 ### Completed this week
 * Code organization
