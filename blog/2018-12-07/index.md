@@ -52,4 +52,4 @@ Web backend: https://anywhere-reader-test.herokuapp.com
 
 iOS: https://github.com/Lambda-School-Labs/Labs8-OfflineReader/tree/master/ios
 
-BST Whiteboard: https://youtu.be/IqDNX9JTWyg
+Balanced Binary Trees Whiteboard: https://www.youtube.com/watch?v=tbaHhR18GNs
